@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dhuna 👋
 
-<!--
-**Dhuna-pixel/Dhuna-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build projects focused on practical problems, mobile development, and data-driven tools.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [MeshLink](https://github.com/Dhuna-pixel/MeshLink)
+An Android prototype for multi-hop device-to-device messaging, with message forwarding, route history, and a three-node simulation.
+
+**Tech:** Kotlin · Jetpack Compose · Android
+
+### [RuralLens](https://github.com/Dhuna-pixel/RuralLens)
+A rural lending portfolio monitoring system for reviewing portfolio health, spotting risks, investigating accounts, and coordinating interventions.
+
+**Status:** Local demo using synthetic data; live database integration is not yet verified.
+
+## More
+- [Browse my repositories](https://github.com/Dhuna-pixel?tab=repositories)
